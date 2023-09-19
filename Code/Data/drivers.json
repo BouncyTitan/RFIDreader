@@ -1,0 +1,60 @@
+{
+    "drivers": [
+      {
+        "id": "37:0D:75:43",
+        "name": "NBAyoungboy",
+        "mirrorX": 74,
+        "mirrorY": 89,
+        "seat_height": 240,
+        "seat_angle": 210,
+        "seat_position": 90,
+        "steering_wheelX": 55,
+        "steering_wheelY": 80
+      },
+      {
+        "id": "3D:DE:33:52",
+        "name": "Henk",
+        "mirrorX": 87,
+        "mirrorY": 117,
+        "seat_height": 43,
+        "seat_angle": 29,
+        "seat_position": 60,       
+        "steering_wheelX": 25,
+        "steering_wheelY": 310
+      },
+      {
+        "id": "6D:66:38:52",
+        "name": "Jan",
+        "mirrorX": 97,
+        "mirrorY": 88,
+        "seat_height": 78,       
+        "seat_angle": 99,
+        "seat_position": 123,      
+        "steering_wheelX": 55,
+        "steering_wheelY": 66
+      },
+      {
+        "id": "AD:B8:37:52",
+        "name": "Piet",
+        "mirrorX": 101,
+        "mirrorY": 76,
+        "seat_height": 255,     
+        "seat_angle": 318,
+        "seat_position": 235,      
+        "steering_wheelX": 47,
+        "steering_wheelY": 88
+      },
+      {
+        "id": "ED:D0:97:2C",
+        "name": "Bob",
+        "mirrorX": 77,
+        "mirrorY": 100,
+        "seat_height": 57,       
+        "seat_angle": 34,
+        "seat_position": 99,      
+        "steering_wheelX": 56,
+        "steering_wheelY": 324
+      }
+    ]
+  }
+  
