@@ -1,5 +1,4 @@
-{
-    "drivers": [
+[
       {
         "id": "37:0D:75:43",
         "name": "NBAyoungboy",
@@ -55,6 +54,5 @@
         "steering_wheelX": 56,
         "steering_wheelY": 324
       }
-    ]
-  }
+]  
   
