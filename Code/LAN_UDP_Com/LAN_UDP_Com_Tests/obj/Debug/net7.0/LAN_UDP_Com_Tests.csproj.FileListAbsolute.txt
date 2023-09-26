@@ -1,6 +1,0 @@
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\obj\Debug\net7.0\LAN_UDP_Com_Tests.csproj.AssemblyReference.cache
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\obj\Debug\net7.0\LAN_UDP_Com_Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\obj\Debug\net7.0\LAN_UDP_Com_Tests.AssemblyInfoInputs.cache
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\obj\Debug\net7.0\LAN_UDP_Com_Tests.AssemblyInfo.cs
-C:\Users\timvd\GitHub\RFIDreader\Code\LAN_UDP_Com\LAN_UDP_Com_Tests\obj\Debug\net7.0\LAN_UDP_Com_Tests.csproj.CoreCompileInputs.cache
