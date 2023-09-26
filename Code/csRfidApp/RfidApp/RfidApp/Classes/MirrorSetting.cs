@@ -8,7 +8,9 @@ namespace RfidApp.Classes
 {
     public class MirrorSetting
     {
-        public int MirrorX { get; set; }
-        public int MirrorY { get; set; }
+        public int Mirror1X { get; set; }
+        public int Mirror1Y { get; set; }
+        public int Mirror2X { get; set; }
+        public int Mirror2Y { get; set; }
     }
 }
