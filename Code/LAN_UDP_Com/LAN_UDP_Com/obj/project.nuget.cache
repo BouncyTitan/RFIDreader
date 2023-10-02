@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ge/5Etn9U4OQeHCtrCuiIv0zs3MCPKUs6AR0Mi66OFFIIL4FbDOFUuvstba6XeM1wzkh/GfF0wIDnDZkZ935A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jipla\\github\\RFIDreader\\Code\\LAN_UDP_Com\\LAN_UDP_Com\\LAN_UDP_Com.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jipla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

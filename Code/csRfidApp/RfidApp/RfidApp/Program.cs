@@ -7,6 +7,7 @@ using System.IO.Ports;
 using System.Threading;
 using System.IO;
 using Newtonsoft.Json;
+using RfidApp.Classes;
 
 
 namespace RfidApp
@@ -30,13 +31,17 @@ namespace RfidApp
                 string receivedId = _serialPort.ReadLine().Trim();
                 try
                 {
-                    Driver selectedDriver = data.Find(driver => driver.id == receivedId);
+                    Driver selectedDriver = data.Find(driver => driver.Id == receivedId);
                     Type driverType = typeof(Driver);
+                    Console.WriteLine(selectedDriver.Name);
+                    Console.WriteLine(selectedDriver.Mirror.Mirror1X);
+                    /*
                     foreach (var propertyInfo in driverType.GetProperties())
                     {
                         var value = propertyInfo.GetValue(selectedDriver, null);
                         Console.WriteLine($"{propertyInfo.Name}: {value}");
                     }
+                    */
 
                 }
                 catch (Exception ex)
@@ -47,17 +52,5 @@ namespace RfidApp
                       
         }
 
-    }
-    class Driver
-    {
-        public string id { get; set; }
-        public string name { get; set; }
-        public int mirrorX { get; set; }
-        public int mirrorY { get; set; }
-        public int seat_height { get; set; }
-        public int seat_angle { get; set; }
-        public int seat_position { get; set; }
-        public int steering_wheelX { get; set; }
-        public int steering_wheelY { get; set; }
     }
 }

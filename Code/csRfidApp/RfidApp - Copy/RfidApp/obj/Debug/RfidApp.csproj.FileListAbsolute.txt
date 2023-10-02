@@ -1,0 +1,11 @@
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\bin\Debug\RfidApp.exe.config
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\bin\Debug\RfidApp.exe
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\bin\Debug\RfidApp.pdb
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.csproj.AssemblyReference.cache
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.csproj.CoreCompileInputs.cache
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.exe
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.pdb
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jipla\github\RFIDreader\Code\csRfidApp\RfidApp\RfidApp\obj\Debug\RfidApp.csproj.CopyComplete
