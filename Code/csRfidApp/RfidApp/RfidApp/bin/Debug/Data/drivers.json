@@ -1,0 +1,97 @@
+[
+  {
+    "1": {
+      "mirror1X": 74,
+      "mirror1Y": 89,
+      "mirror2X": 13,
+      "mirror2Y": 9
+    },
+    "2": {
+      "seatHeight": 240,
+      "seatAngle": 210,
+      "seatPosition": 90
+    },
+    "3": {
+      "steeringWheelX": 55,
+      "steeringWheelY": 80
+    },
+    "id": "04:3C:63:EA:FD:6D:80",
+    "name": "NBAyoungboy"
+  },
+  {
+    "1": {
+      "mirror1X": 74,
+      "mirror1Y": 89,
+      "mirror2X": 13,
+      "mirror2Y": 9
+    },
+    "2": {
+      "seatHeight": 240,
+      "seatAngle": 210,
+      "seatPosition": 90
+    },
+    "3": {
+      "steeringWheelX": 55,
+      "steeringWheelY": 80
+    },
+    "id": "3D:DE:33:52",
+    "name": "Henk"
+  },
+  {
+    "1": {
+      "mirror1X": 74,
+      "mirror1Y": 89,
+      "mirror2X": 13,
+      "mirror2Y": 9
+    },
+    "2": {
+      "seatHeight": 240,
+      "seatAngle": 210,
+      "seatPosition": 90
+    },
+    "3": {
+      "steeringWheelX": 55,
+      "steeringWheelY": 80
+    },
+    "id": "6D:66:38:52",
+    "name": "Jan"
+  },
+  {
+    "1": {
+      "mirror1X": 74,
+      "mirror1Y": 89,
+      "mirror2X": 13,
+      "mirror2Y": 9
+    },
+    "2": {
+      "seatHeight": 240,
+      "seatAngle": 210,
+      "seatPosition": 90
+    },
+    "3": {
+      "steeringWheelX": 55,
+      "steeringWheelY": 80
+    },
+    "id": "AD:B8:37:52",
+    "name": "Piet"
+  },
+  {
+    "1": {
+      "mirror1X": 74,
+      "mirror1Y": 89,
+      "mirror2X": 13,
+      "mirror2Y": 9
+    },
+    "2": {
+      "seatHeight": 240,
+      "seatAngle": 210,
+      "seatPosition": 90
+    },
+    "3": {
+      "steeringWheelX": 55,
+      "steeringWheelY": 80
+    },
+    "id": "ED:D0:97:2C",
+    "name": "Bob"
+  }
+]
