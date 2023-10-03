@@ -1,0 +1,35 @@
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfoInputs.cache
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfo.cs
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.csproj.CoreCompileInputs.cache
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.deps.json
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.pdb
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\refint\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.pdb
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\ref\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\AvaloniaUPD\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.csproj.AssemblyReference.cache
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.deps.json
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.pdb
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfoInputs.cache
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfo.cs
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.csproj.CoreCompileInputs.cache
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\refint\SclcClassLibrary.dll
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.pdb
+C:\Workspace\Fontys\Semester_2\Group\Git\code\Sclc\SclcClassLibrary\obj\Debug\net7.0\ref\SclcClassLibrary.dll
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.deps.json
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.dll
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\bin\Debug\net7.0\SclcClassLibrary.pdb
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.csproj.AssemblyReference.cache
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfoInputs.cache
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.AssemblyInfo.cs
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.dll
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\refint\SclcClassLibrary.dll
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\SclcClassLibrary.pdb
+C:\Users\timvd\GitHub\RFIDreader\Code\Library Kasper\SclcClassLibrary\SclcClassLibrary\obj\Debug\net7.0\ref\SclcClassLibrary.dll

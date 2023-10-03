@@ -8,7 +8,7 @@ using System.Threading;
 using System.IO;
 using Newtonsoft.Json;
 using RfidApp.Classes;
-
+using System.Web;
 
 namespace RfidApp
 {
@@ -30,16 +30,19 @@ namespace RfidApp
 
             while (true)
             {
-                try
+                string option = Console.ReadLine();
+                if(int.TryParse(option,out int intOption))
                 {
-                    string selectedPort = ports[int.Parse(Console.ReadLine())];
-                    Console.WriteLine($"selected port: {selectedPort}");
-                    return selectedPort;
+                    if(intOption>=0&&intOption<ports.Length)
+                    {
+                        string selectedPort = ports[intOption];
+                        Console.WriteLine($"selected port: {selectedPort}");
+                        return selectedPort;
+                    }
                 }
-                catch
-                {
-                    Console.WriteLine("Invalid option");
-                }
+               
+                Console.WriteLine("Invalid option");
+                
             }
         }
 
@@ -59,20 +62,22 @@ namespace RfidApp
             return message.Replace(beginChar, "").Trim();
         }
 
-        private static void SendInfo(string id)
+        private static void SendInfo(string uid)
         {
-            try
-            {
-                Driver selectedDriver = data.Find(driver => driver.Id == id);
-                Type driverType = typeof(Driver);
-                Console.WriteLine(selectedDriver.Name);
-                Console.WriteLine(selectedDriver.Mirror.Mirror1X);
-
-            }
-            catch (Exception ex)
+            
+            Driver selectedDriver = data.Find(driver => driver.Uid == uid);
+            if (selectedDriver == null)
             {
                 Console.WriteLine("Not a valid card!");
+                return;
             }
+            Type driverType = typeof(Driver);
+            string message1 = JsonConvert.SerializeObject(selectedDriver.Mirror);
+            string message2 = JsonConvert.SerializeObject(selectedDriver.Seat);
+            string message3 = JsonConvert.SerializeObject(selectedDriver.SteeringWheel);
+
+            
+            
         }
 
         public static void Main()

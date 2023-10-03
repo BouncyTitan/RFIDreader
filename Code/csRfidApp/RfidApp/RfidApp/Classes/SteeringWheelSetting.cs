@@ -10,7 +10,10 @@ namespace RfidApp.Classes
 {
     public class SteeringWheelSetting
     {
+        [JsonProperty("steeringWheelX")]
         public int SteeringWheelX { get; set; }
+
+        [JsonProperty("steeringWheelY")]
         public int SteeringWheelY { get; set; }
     }
 }
